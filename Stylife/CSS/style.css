@@ -1,0 +1,17 @@
+
+
+@font-face {
+    font-family: title;
+    src: url(../fonts/Pinar-Black.ttf);
+}
+
+@font-face {
+    font-family: text-pinar;
+    src: url(../fonts//Pinar-Regular.ttf);
+}
+.pinar {
+    font-family: text-pinar;
+}
+p{
+    line-height: 34px;
+}
